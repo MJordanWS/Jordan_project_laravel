@@ -15,6 +15,8 @@
                 <li><a href="#tentang-saya" class="hover:underline">Tentang Saya</a></li>
                 <li><a href="#portofolio" class="hover:underline">Portofolio</a></li>
                 <li><a href="#galeri" class="hover:underline">Galeri</a></li>
+                <li><a href="{{ route('login')}}" class="hover:underline">Login</a></li>
+                <li><a href="{{ route('about')}}" class="hover:underline">About</a></li>
             </ul>
         </nav>
     </header>
